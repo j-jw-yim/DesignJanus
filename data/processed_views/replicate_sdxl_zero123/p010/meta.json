@@ -1,0 +1,11 @@
+{
+  "method": "replicate_sdxl_zero123",
+  "prompt_id": "p010",
+  "prompt_text": "a woven tote bag with wooden handles",
+  "source": "replicate",
+  "num_views": 6,
+  "target_size": [
+    256,
+    256
+  ]
+}

@@ -1,0 +1,27 @@
+# DesignJanus dependencies
+
+# Annotation interface
+streamlit>=1.28.0
+
+# Preprocessing
+Pillow>=10.0.0
+
+# Real data collection (Replicate + Hugging Face)
+replicate>=0.25.0
+requests>=2.28.0
+datasets>=2.14.0
+
+# Metrics (optional; install if running run_metrics.py)
+torch>=2.0.0
+torchvision>=0.15.0
+ftfy
+regex
+# clip: pip install git+https://github.com/openai/CLIP.git
+
+# Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+jupyter>=1.0.0
+ipykernel>=6.0.0

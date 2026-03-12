@@ -1,0 +1,11 @@
+{
+  "method": "replicate_sdxl_zero123",
+  "prompt_id": "p011",
+  "prompt_text": "a ceramic mug with a large side handle",
+  "source": "replicate",
+  "num_views": 6,
+  "target_size": [
+    256,
+    256
+  ]
+}

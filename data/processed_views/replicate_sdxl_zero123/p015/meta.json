@@ -1,0 +1,11 @@
+{
+  "method": "replicate_sdxl_zero123",
+  "prompt_id": "p015",
+  "prompt_text": "a ceramic vase with a narrow neck",
+  "source": "replicate",
+  "num_views": 6,
+  "target_size": [
+    256,
+    256
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "method": "replicate_sdxl_zero123",
+  "prompt_id": "p008",
+  "prompt_text": "a leather belt with a silver buckle",
+  "source": "replicate",
+  "num_views": 6,
+  "target_size": [
+    256,
+    256
+  ]
+}

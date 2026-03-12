@@ -1,0 +1,11 @@
+{
+  "method": "replicate_sdxl_zero123",
+  "prompt_id": "p006",
+  "prompt_text": "a red handbag with a gold chain strap",
+  "source": "replicate",
+  "num_views": 6,
+  "target_size": [
+    256,
+    256
+  ]
+}

@@ -1,0 +1,14 @@
+# Data cache
+data/.cache_dxgl/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Optional: uncomment to exclude generated data (keep code-only)
+# data/processed_views/
+# data/annotations/
+# data/metrics/

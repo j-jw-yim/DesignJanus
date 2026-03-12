@@ -1,0 +1,21 @@
+prompt_id,prompt_text,category,expected_parts,notes
+p001,a wooden chair with curved armrests,furniture,legs, seat, backrest, armrests,classic chair; good for symmetry
+p002,a modern office chair with wheels,furniture,wheels, backrest, armrests, base,distinct parts; wheels easy to check
+p003,a minimalist stool with three legs,furniture,legs, seat,simple; symmetry critical
+p004,a rocking chair with wooden slats,furniture,slats, rockers, legs, backrest,repetitive structure
+p005,a bar stool with a round seat and footrest,furniture,legs, seat, footrest, stem,multiple horizontal elements
+p006,a red handbag with a gold chain strap,accessories,strap, body, clasp, hardware,distinct materials
+p007,a leather backpack with two front pockets,accessories,pockets, straps, zippers,main bag + pockets
+p008,a leather belt with a silver buckle,accessories,buckle, belt, holes,simple; buckle critical
+p009,a pair of sunglasses with cat-eye frames,accessories,arms, lenses, bridge,frame symmetry
+p010,a woven tote bag with wooden handles,accessories,handles, body, weave pattern,handle placement
+p011,a ceramic mug with a large side handle,household,handle, body, rim,base,simple; handle very visible
+p012,a glass teapot with a curved spout,household,spout, handle, lid, body,spout + handle geometry
+p013,a desk lamp with an adjustable arm,household,base, arm, shade, bulb,articulated parts
+p014,a metal watering can with a long spout,household,spout, handle, body, spout tip,long spout
+p015,a ceramic vase with a narrow neck,household,neck, body, base,rim,smooth shape
+p016,a corgi wearing a small backpack,animals_characters,ears, legs, backpack, face,character + accessory
+p017,a teddy bear with a bow tie,animals_characters,ears, legs, bow tie, face,body symmetry
+p018,a toy robot with antenna and wheels,animals_characters,antenna, wheels, arms, head,mechanical parts
+p019,a ceramic cat figurine with raised tail,animals_characters,tail, ears, whiskers, paws,delicate parts
+p020,a rubber duck with a sailor hat,animals_characters,beak, hat, body, eyes,simple character
