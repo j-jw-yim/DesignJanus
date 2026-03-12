@@ -6,11 +6,11 @@
 
 ## Why This Exists
 
-When we generate 3D objects from text or images, the results often look wrong when we rotate them. A chair might have four legs from the front and three from the back. A mug handle might appear on both sides. These "Janus" failures—named after the two-faced Roman god—are well known in the field, and recent methods like Consistent Flow Distillation and RecDreamer explicitly aim to reduce them.
+When we generate 3D objects from text or images, the results often look wrong when we rotate them. A chair might have four legs from the front and three from the back. A mug handle might appear on both sides. These "Janus" failures are well known in the field, and recent methods like Consistent Flow Distillation and RecDreamer explicitly aim to reduce them.
 
 But the field still asks: *how do we measure consistency?* Most evaluation relies on model-side metrics or image similarity scores. We rarely ask: *which kinds of inconsistency actually matter to people?* And to designers, who might use these outputs as references?
 
-DesignJanus is a small, human-centered benchmark that fills that gap. Instead of building a new 3D generator, we ask: when multi-view outputs are inconsistent, which failures most reduce perceived coherence and design usefulness? The answer shapes how we should evaluate—and optimize—future methods.
+DesignJanus is a small, human-centered benchmark that fills that gap. Instead of building a new 3D generator, we ask: when multi-view outputs are inconsistent, which failures most reduce perceived coherence and design usefulness? The answer shapes how we should evaluate and optimize future methods.
 
 ---
 
